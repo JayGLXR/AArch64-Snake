@@ -2,6 +2,9 @@
 
 A two-player snake game written in AArch64 assembly for Apple Silicon Macs. Watch as two AI-controlled snakes compete to eat the most food and grow longer!
 
+![C7EBF22B-52CF-4BC8-8336-A3813329B85F_1_105_c](https://github.com/user-attachments/assets/2e9a64bf-197a-4560-9ebc-dca0a80719ea)
+
+
 ## Features
 
 - Two AI-controlled snakes competing on the same board
